@@ -4,6 +4,8 @@ Easy way to perform Internationalization(i18n) and localization in your javascri
 
 Live Demo: https://code.essoduke.org/i18n/
 
+http://i18njs.com/
+
 ## Installation
 
 ```html
